@@ -1,0 +1,10 @@
+date,ward,admissions,beds_used,ventilators_used
+2025-04-01,ICU,10,10,5
+2025-04-01,General,20,25,1
+2025-04-01,Emergency,15,17,3
+2025-04-02,ICU,12,11,6
+2025-04-02,General,22,26,1
+2025-04-02,Emergency,14,18,4
+2025-04-03,ICU,13,12,6
+2025-04-03,General,21,24,2
+2025-04-03,Emergency,16,20,3
